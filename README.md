@@ -2,8 +2,6 @@
 
 This repository is a digitalization of the course project for **TA212 (Introduction to Manufacturing Process II)** under Professor Sarvesh Mishra, completed during the 2025 Odd semester at the Indian Institute of Technology Kanpur.
 
-![Human Following Robot](assets/group_photo.png)
-
 An Arduino-based autonomous robot capable of tracking and following a human target. It uses an ultrasonic sensor mounted on a servo motor to gauge distance, and two infrared (IR) sensors to detect directional movement and steer the chassis.
 
 ---
@@ -11,7 +9,7 @@ An Arduino-based autonomous robot capable of tracking and following a human targ
 ## 🏆 Awards & Recognition
 This project, officially titled **"Human Tracker Bot,"** was awarded the **2nd Best Project** (Tuesday Batch, Gr. No. 10) in the TA-212 Lab.
 
-<img src="assets/award.jpg" alt="TA212 2nd Best Project Certificate" width="600"/>
+<img src="assests/Award.jpg.png" alt="TA212 2nd Best Project Certificate" width="600"/>
 
 ---
 
@@ -25,6 +23,7 @@ This robot was successfully fabricated and programmed through the collaborative 
 * Priyanshu
 * Chakresh
 * Arvind
+<img src="assests/group_photo.jpg" alt="Human Following Robot" width="500"/>
 
 ---
 
