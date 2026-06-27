@@ -15,13 +15,12 @@ An Arduino-based autonomous robot capable of tracking and following a human targ
 *   **Actuator:** SG90 Micro Servo Motor
 *   **Power:** 2x 18650 Li-ion Batteries & Battery Holder
 *   **Chassis:** Custom/3D-printed base and acrylic brackets
-
-<img src="assests/Circuit_Diagram.jpg" alt="Human Following Robot" width="750"/>
   
 
 ## 🔌 Circuit & Wiring Connections
 
 Attach the L293D Motor Shield directly on top of the Arduino Uno.
+<img src="assests/Circuit_Diagram.jpg" alt="Human Following Robot" width="750"/>
 
 **Sensors to Motor Shield:**
 *   **Right IR Sensor (OUT):** Analog Pin `A2`
