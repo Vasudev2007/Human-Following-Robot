@@ -40,6 +40,7 @@ This robot was successfully fabricated and programmed through the collaborative 
 ---
 
 ## 🔌 Circuit & Wiring Connections
+<img src="assests/Circuit_Diagram.jpg" alt="Human Following Robot" width="500"/>
 
 Attach the L293D Motor Shield directly on top of the Arduino Uno.
 
