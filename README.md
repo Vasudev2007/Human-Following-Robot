@@ -26,6 +26,17 @@ This robot was successfully fabricated and programmed through the collaborative 
 <img src="assests/group_photo.jpg" alt="Human Following Robot" width="500"/>
 
 ---
+## 🛒 Parts List & Purchase Links (Amazon.in)
+1. [Arduino Uno](https://amzn.to/35flEXS)
+2. [Motor Driver Shield](https://amzn.to/30Z9ijj)
+3. [TT Gear Motor and wheels set](https://amzn.to/31WSD0Z)
+4. [Servo Motor](https://amzn.to/2IAigNH)
+5. [Ultrasonic Sensor](https://amzn.to/33fwrQa)
+6. [18650 Li-on Battery (2x)](https://bit.ly/2CZabQ7)
+7. [18650 Battery Holder](https://amzn.to/33iY4b3)
+8. [Male and Female Jumper wire](https://amzn.to/2MmRjOE)
+9. Acrylic Sheet - *(Offline Store)*
+10. [DC Power Switch](https://bit.ly/2FtyEzs)
 
 ## 🛠️ Hardware Components
 *   **Microcontroller:** Arduino Uno
