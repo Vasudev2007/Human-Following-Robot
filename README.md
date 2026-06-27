@@ -1,6 +1,6 @@
 # Human-Following-Robot
 This repository is digitalization of the course project TA212 under Professor Sarvesh Mishra that we did in the 2025' Odd semester. 
-
+![Human Following Robot](assets/group_photo.jpg)
 # Autonomous Human-Following Robot
 
 An Arduino-based autonomous robot capable of tracking and following a human target. It uses an ultrasonic sensor mounted on a servo motor to gauge distance, and two infrared (IR) sensors to detect directional movement and steer the chassis.
