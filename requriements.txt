@@ -1,0 +1,5 @@
+# Install these via the Arduino IDE Library Manager (Sketch > Include Library > Manage Libraries)
+
+Adafruit Motor Shield library (AFMotor.h)
+NewPing (for optimized Ultrasonic sensor reading)
+Servo (Standard Arduino library)
